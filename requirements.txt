@@ -1,0 +1,2 @@
+vllm
+bitsandbytes>=0.45.0
